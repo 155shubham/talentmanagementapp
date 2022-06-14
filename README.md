@@ -19,4 +19,4 @@
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Find the Architecture diagrams and UI diagrams in the respective folders.
+### Find the Architecture diagrams, UI diagrams and Slides in the respective folders.
