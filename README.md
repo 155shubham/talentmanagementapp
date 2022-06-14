@@ -18,7 +18,7 @@
     
   Enter the command **npm start**
 
-  Open http://localhost:3000/api/projects to view it in your browser.
+  Open http://localhost:3000 to view it in your browser.
 
 ### Following are credentials for the tool:
   **Username**: sb
