@@ -4,7 +4,7 @@
 ### Start Server
   Go to the server folder and open the command prompt. 
   
-  Enter the command **npm install nodemon express mongoose cors** to install the nodemon dependency.
+  Enter the command **npm install nodemon express mongoose cors** to install the dependencies.
   
   Enter the command **npm start**
   
