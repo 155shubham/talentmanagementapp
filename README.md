@@ -2,15 +2,23 @@
   Download the Code or clone the code
 
 ### Start Server
-  Go to the server folder and open the command prompt. Enter the command **npm start**
+  Go to the server folder and open the command prompt. 
   
-  Open http://localhost:3000 to view it in your browser.
+  Enter the command **npm install nodemon express mongoose cors** to install the nodemon dependency.
+  
+  Enter the command **npm start**
+  
+  Open http://localhost:5000/api/projects to check projects your browser.
 
 ### Start Client
 
-  Go to client folder and open the command prompt and enter the command **npm start**
+  Go to client folder and open the command prompt.
+  
+  Enter the command **npm install** to install the dependencies.
+    
+  Enter the command **npm start**
 
-  Open http://localhost:5000/api/projects to view it in your browser.
+  Open http://localhost:3000/api/projects to view it in your browser.
 
 ### Following are credentials for the tool:
   **Username**: sb
